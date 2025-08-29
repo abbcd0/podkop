@@ -132,14 +132,20 @@ daily.co
 
 
 
-
-
+clients1.google.com
 clients2.google.com
+clients3.google.com
 clients4.google.com
+clients5.google.com
 clients6.google.com
 www.gstatic.com
 fonts.gstatic.com
 lh3.googleusercontent.com
+meetings.clients1.google.com
+meetings.clients2.google.com
+meetings.clients3.google.com
+meetings.clients4.google.com
+meetings.clients5.google.com
 meetings.clients6.google.com
 accounts.google.com
 apis.google.com
@@ -149,6 +155,9 @@ meet.google.com
 apps.google.com
 docs.google.com
 stream.meet.google.com
+googleapis.com
+googleusercontent.com
+gstatic.com
 google.com
 feedback.googleusercontent.com
 play.google.com
