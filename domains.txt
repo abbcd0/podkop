@@ -34,16 +34,6 @@ discordapp.net
 discord.media
 meduza.io
 cdn.segment.com
-
-
-
-
-
-
-
-
-
-
 chatgpt.com
 oaistatic.com
 oaiusercontent.com
@@ -129,9 +119,6 @@ unpkg.com
 onmaven.app
 chameleon.io
 daily.co
-
-
-
 clients1.google.com
 clients2.google.com
 clients3.google.com
