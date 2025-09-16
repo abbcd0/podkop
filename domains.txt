@@ -148,3 +148,5 @@ gstatic.com
 google.com
 feedback.googleusercontent.com
 play.google.com
+auth.split.io
+streaming.split.io
