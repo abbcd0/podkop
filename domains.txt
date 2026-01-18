@@ -197,3 +197,11 @@ chat.whatsapp.com
 business.whatsapp.com
 faq.whatsapp.com
 support.whatsapp.com
+app-cdn.clickup.com
+c.daily.co
+events.split.io
+frontdoor-prod-ap-southeast-1-1.clickup.com
+gs.daily.co
+ip-18-157-216-165s-eu-central-1.wss.daily.co
+o4504202748690432.ingest.sentry.io
+search.clickup-sg.com
