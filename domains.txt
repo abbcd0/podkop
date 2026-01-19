@@ -119,7 +119,6 @@ unpkg.com
 onmaven.app
 chameleon.io
 daily.co
-t.metacommerce.io
 clients1.google.com
 clients2.google.com
 clients3.google.com
