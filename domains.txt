@@ -204,3 +204,6 @@ gs.daily.co
 ip-18-157-216-165s-eu-central-1.wss.daily.co
 o4504202748690432.ingest.sentry.io
 search.clickup-sg.com
+kino.pub
+kpdl.link
+kpdl.link
