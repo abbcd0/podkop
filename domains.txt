@@ -206,4 +206,7 @@ o4504202748690432.ingest.sentry.io
 search.clickup-sg.com
 kino.pub
 kpdl.link
-kpdl.link
+canva.com
+canva-apps.com
+canva-hosted-embed.com
+my.canva.site
